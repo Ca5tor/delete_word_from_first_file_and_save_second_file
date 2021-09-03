@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "delete_word_from_first_file_and_save_second_file", "delete_word_from_first_file_and_save_second_file\delete_word_from_first_file_and_save_second_file.vcxproj", "{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Debug|x64.ActiveCfg = Debug|x64
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Debug|x64.Build.0 = Debug|x64
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Debug|x86.Build.0 = Debug|Win32
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Release|x64.ActiveCfg = Release|x64
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Release|x64.Build.0 = Release|x64
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Release|x86.ActiveCfg = Release|Win32
+		{A6BF6651-53D1-4ABA-8505-6AE1F3193A4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31218AE5-D6F9-4DF1-973C-D4D0F3D84DFA}
+	EndGlobalSection
+EndGlobal
